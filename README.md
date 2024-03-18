@@ -1,5 +1,4 @@
 ![Sandip Koli Portfolio](/assets/img/sandipcoverpic.png)
-# Data Analyst
 
 # Education
 ## B.Tech | Computer Science | 2022 | 9.28 CGPA
