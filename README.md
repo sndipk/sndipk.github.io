@@ -1,5 +1,4 @@
-# Sandip Koli | Portfolio
-
+![Sandip Koli Portfolio](/assets/img/sandipcoverpic.png)
 # Data Analyst
 
 # Education
