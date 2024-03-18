@@ -1,4 +1,4 @@
-## Sandip Koli | Portfolio
+# Sandip Koli | Portfolio
 
 # Data Analyst
 
