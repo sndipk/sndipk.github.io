@@ -12,8 +12,8 @@
 
 ## 1) Covid-19 
 
-	•	Aim: 	Conducted comprehensive data analysis on COVID-19 data to identify trends, patterns, and insights that can inform public health policies and interventions.
-	•	Problem:	 Analyzed infection rates, mortality rates, vaccination rates, and other key indicators to understand the impact of the COVID-19 pandemic on different regions and demographics.
+	•	Aim: Conducted comprehensive data analysis on COVID-19 data to identify trends, patterns, and insights that can inform public health policies and interventions.
+	•	Problem: Analyzed infection rates, mortality rates, vaccination rates, and other key indicators to understand the impact of the COVID-19 pandemic on different regions and demographics.
 	•	Activity: exploratory data analysis (EDA),  predictive modeling to forecast infection rates, hospitalization rates, and other relevant metrics based on historical data.
 	•	Dataset: Utilized publicly available COVID-19 datasets from  World Health Organization (WHO)
 	•	Included data on daily new cases, deaths, recoveries, testing rates, demographic information, and geographical location.
@@ -31,7 +31,7 @@ This project's findings were vital in understanding the dynamics of the pandemic
 ## 2) IPL Data Analysis
 
         •	Aim: Conducted comprehensive data analysis on IPL (Indian Premier League) data to extract actionable insights and trends.
-	•	Problem: Analyzed performance metrics, player statistics, team dynamics, and match outcomes to identify factors contributing to success 				 in the IPL.
+	•	Problem: Analyzed performance metrics, player statistics, team dynamics, and match outcomes to identify factors contributing to success in the IPL.
 	•	Activity: Performed exploratory data analysis (EDA), sentiment analysis,predictive models 
 	•	Dataset: Utilized publicly available IPL datasets from sources such as Kaggle, ESPN, or official IPL websites which Included data on match results, player statistics, team standings, venue details, and other relevant attributes.
 	•	Skills:data cleaning, preprocessing, and manipulation techniques,statistical analysis and data visualization tools, machine learning algorithms for predictive modeling, Python programming and relevant libraries such as Pandas, NumPy, Matplotlib, and Seaborn, communication skills.
