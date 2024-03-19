@@ -30,10 +30,9 @@ This project's findings were vital in understanding the dynamics of the pandemic
 
 ## 2) IPL Data Analysis
 
-        •	Aim: 	Conducted comprehensive data analysis on IPL (Indian Premier League) data to extract actionable insights and trends.
-	•	Problem:	 Analyzed performance metrics, player statistics, team dynamics, and match outcomes to identify factors contributing to success in the IPL.
-	•	Activity:
-	⁃	Performed exploratory data analysis (EDA), sentiment analysis,predictive models 
+        •	Aim: Conducted comprehensive data analysis on IPL (Indian Premier League) data to extract actionable insights and trends.
+	•	Problem: Analyzed performance metrics, player statistics, team dynamics, and match outcomes to identify factors contributing to success 				 in the IPL.
+	•	Activity: Performed exploratory data analysis (EDA), sentiment analysis,predictive models 
 	•	Dataset: Utilized publicly available IPL datasets from sources such as Kaggle, ESPN, or official IPL websites which Included data on match results, player statistics, team standings, venue details, and other relevant attributes.
 	•	Skills:data cleaning, preprocessing, and manipulation techniques,statistical analysis and data visualization tools, machine learning algorithms for predictive modeling, Python programming and relevant libraries such as Pandas, NumPy, Matplotlib, and Seaborn, communication skills.
 
