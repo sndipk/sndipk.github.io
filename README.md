@@ -20,7 +20,7 @@
 	•	Skills: data cleaning, preprocessing, and manipulation techniques, statistical analysis and data visualization tools, Python  relevant libraries like Pandas, NumPy, Matplotlib, and Seaborn for COVID-19 data analysis.
 
 Description:
-				The Tableau project on COVID-19 aimed to provide a comprehensive analysis of the pandemic's data to uncover trends and insights that could guide public health decisions. The primary goal was to analyze various metrics such as infection, mortality, and vaccination rates to gauge the pandemic's impact across different regions and populations.
+	     The Tableau project on COVID-19 aimed to provide a comprehensive analysis of the pandemic's data to uncover trends and insights that could guide public health decisions. The primary goal was to analyze various metrics such as infection, mortality, and vaccination rates to gauge the pandemic's impact across different regions and populations.
 The project involved extensive exploratory data analysis (EDA) and predictive modelling to estimate future trends in infection and hospitalization rates using historical data. The dataset comprised publicly available information from the World Health Organization (WHO), including daily updates on new cases, deaths, recoveries, testing rates, as well as demographic and geographical data.
 Key skills employed in this project included data cleaning, preprocessing, manipulation, statistical analysis, and data visualization. Python and its associated libraries—Pandas, NumPy, Matplotlib, and Seaborn—were instrumental in the analysis of COVID-19 data, enabling the creation of insightful visualizations and models.
 This project's findings were vital in understanding the dynamics of the pandemic and could significantly contribute to shaping effective health policies and interventions. By identifying patterns and predicting future occurrences, the project aimed to assist policymakers in making informed decisions to combat the ongoing health crisis.
@@ -59,7 +59,7 @@ In conclusion, the "IPL Data Analysis" project was a testament to the power of d
 	•	Problem: create a model to predict agriculture production in countries in the next few years for rice, wheat or vegetables
 	•	Activity: Perform regression analysis(linear regression, logistic regression) to predict trends
 	•	DataSet: Kaggle;s world_foods Dataset
-	•	Skills: Data Cleaning, Python, Data/Statistical analysis, Visulisatizationn, Trends, Modeling, Communication
+	•	Skills: Data Cleaning, Python, Data/Statistical analysis, Visulisatizationn, Trends, Modeling, Communication.
 
 Description: 
 		The project Agriculture Product Prediction is a comprehensive Tableau venture aimed at developing a predictive model to forecast agricultural product yields, specifically rice, wheat, and vegetables, across various countries in the upcoming years. The models objective is to provide accurate predictions that can assist policymakers, farmers, and stakeholders in making informed decisions to optimize production and ensure food security.
@@ -83,14 +83,14 @@ The projects success hinges on the seamless integration of these skills to creat
 
 	Aim: To accurately predict whether a loan request will be approved or denied, based on the details provided by the applicant
 
-	•	 gather loan application data,
-	•	 explore and analyse the data
-	•	preprocess and transform the data
-	•	select relevant feature for classification and train the model 
-	•	use the trained model to predict loan approval
+	•	 gather loan application data.
+	•	 explore and analyse the data.
+	•	preprocess and transform the data.
+	•	select relevant feature for classification and train the model.
+	•	use the trained model to predict loan approval.
 	
-	Description: 
-				The project Loan Approval Prediction is a sophisticated Tableau dashboard designed to streamline the decision-making process in the banking sector. The aim is to leverage predictive analytics to determine the likelihood of loan approval for applicants. This is achieved through a series of methodical steps, each contributing to the models accuracy and reliability.
+Description: 
+	     The project Loan Approval Prediction is a sophisticated Tableau dashboard designed to streamline the decision-making process in the banking sector. The aim is to leverage predictive analytics to determine the likelihood of loan approval for applicants. This is achieved through a series of methodical steps, each contributing to the models accuracy and reliability.
 Data Gathering: The first phase involves collecting comprehensive loan application data from potential borrowers. This dataset includes personal, financial, and employment information, which forms the backbone of the predictive analysis.
 • Data Exploration and Analysis: With the data in hand, the next step is to conduct an exploratory analysis. This involves scrutinizing the data for patterns, correlations, and trends that could influence loan approval decisions. Tableaus interactive visualizations aid in identifying key factors that are indicative of successful loan repayments.
 • Data Preprocessing and Transformation: Raw data often contains inconsistencies, missing values, and outliers that can skew predictions. Therefore, preprocessing is crucial. This stage cleanses the data, handles missing values, encodes categorical variables, and normalizes numerical values to prepare a robust dataset for modeling.
@@ -109,8 +109,8 @@ This project exemplifies the power of data analytics in financial decision-makin
 	•	Skills: Applied statistical analysis and data visualization to interpret complex energy consumption patterns.
 
 
-	Description:
-		     This Tableau project, titled Energy Consumption Analysis, embarks on a critical mission to dissect and understand the intricate web of energy consumption and its associated costs. The aim is to shed light on the dominant energy providers and unravel the patterns of peak energy usage.
+Description:
+	    This Tableau project, titled Energy Consumption Analysis, embarks on a critical mission to dissect and understand the intricate web of energy consumption and its associated costs. The aim is to shed light on the dominant energy providers and unravel the patterns of peak energy usage.
 Aim: The projects primary objective is to meticulously analyze the total energy consumption and the financial burden it imposes. It seeks to pinpoint the leading energy providers and decode the trends of peak usage times and seasons.
 Problem: Urban landscapes face the pressing issue of optimizing energy utilization while curtailing the soaring expenses that accompany it. This project tackles this challenge head-on, proposing data-driven solutions to enhance energy efficiency in metropolitan environments.
 Activity: A thorough investigation was undertaken, encompassing a vast array of energy data collected over several years and across a multitude of cities. This extensive study aimed to capture a holistic view of the energy landscape.
