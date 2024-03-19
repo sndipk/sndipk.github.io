@@ -1,5 +1,5 @@
 ![Sandip Koli Portfolio](/assets/img/sandipcoverpic.png)
-[Linkdin] (https://www.linkedin.com/in/sndpk/)
+[Linkdin] (https://linkedin.com/in/sndpk/)
 [Github](https://github.com/sndipk)
 # Education
 ## B.Tech | Computer Science | 2022 | 9.28 CGPA
