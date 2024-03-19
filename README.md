@@ -55,11 +55,11 @@ In conclusion, the "IPL Data Analysis" project was a testament to the power of d
 
 ## 3) Agriculture product prediction
 
-	⁃       Aim: To develop a predictive model for agriculture product production that accurately forecasts rice, wheat, or vegetable yields in various countries over the next few years.
-	⁃	Problem: create a model to predict agriculture production in countries in the next few years for rice, wheat or vegetables
-	⁃	Activity: Perform regression analysis(linear regression, logistic regression) to predict trends
-	⁃	DataSet: Kaggle;s world_foods Dataset
-	⁃	Skills: Data Cleaning, Python, Data/Statistical analysis, Visulisatizationn, Trends, Modeling, Communication
+	•       Aim: To develop a predictive model for agriculture product production that accurately forecasts rice, wheat, or vegetable yields in various countries over the next few years.
+	•	Problem: create a model to predict agriculture production in countries in the next few years for rice, wheat or vegetables
+	•	Activity: Perform regression analysis(linear regression, logistic regression) to predict trends
+	•	DataSet: Kaggle;s world_foods Dataset
+	•	Skills: Data Cleaning, Python, Data/Statistical analysis, Visulisatizationn, Trends, Modeling, Communication
 
 Description: 
 		The project Agriculture Product Prediction is a comprehensive Tableau venture aimed at developing a predictive model to forecast agricultural product yields, specifically rice, wheat, and vegetables, across various countries in the upcoming years. The model's objective is to provide accurate predictions that can assist policymakers, farmers, and stakeholders in making informed decisions to optimize production and ensure food security.
@@ -83,18 +83,18 @@ The project's success hinges on the seamless integration of these skills to crea
 
 	Aim: To accurately predict whether a loan request will be approved or denied, based on the details provided by the applicant
 
-	⁃	 gather loan application data,
-	⁃	 explore and analyse the data
-	⁃	preprocess and transform the data
-	⁃	select relevant feature for classification and train the model 
-	⁃	use the trained model to predict loan approval
+	•	 gather loan application data,
+	•	 explore and analyse the data
+	•	preprocess and transform the data
+	•	select relevant feature for classification and train the model 
+	•	use the trained model to predict loan approval
 	
 	Description: 
 				The project Loan Approval Prediction is a sophisticated Tableau dashboard designed to streamline the decision-making process in the banking sector. The aim is to leverage predictive analytics to determine the likelihood of loan approval for applicants. This is achieved through a series of methodical steps, each contributing to the model's accuracy and reliability.
 Data Gathering: The first phase involves collecting comprehensive loan application data from potential borrowers. This dataset includes personal, financial, and employment information, which forms the backbone of the predictive analysis.
-Data Exploration and Analysis: With the data in hand, the next step is to conduct an exploratory analysis. This involves scrutinizing the data for patterns, correlations, and trends that could influence loan approval decisions. Tableau's interactive visualizations aid in identifying key factors that are indicative of successful loan repayments.
+• Data Exploration and Analysis: With the data in hand, the next step is to conduct an exploratory analysis. This involves scrutinizing the data for patterns, correlations, and trends that could influence loan approval decisions. Tableau's interactive visualizations aid in identifying key factors that are indicative of successful loan repayments.
 • Data Preprocessing and Transformation: Raw data often contains inconsistencies, missing values, and outliers that can skew predictions. Therefore, preprocessing is crucial. This stage cleanses the data, handles missing values, encodes categorical variables, and normalizes numerical values to prepare a robust dataset for modeling.
-Feature Selection and Model Training: Not all data points are equally informative. Selecting the most relevant features is vital for an effective model. Using Tableau, analysts can visualize the impact of various features on loan approval outcomes. Once the features are selected, a classification model is trained to discern patterns that lead to loan approvals or denials.
+• Feature Selection and Model Training: Not all data points are equally informative. Selecting the most relevant features is vital for an effective model. Using Tableau, analysts can visualize the impact of various features on loan approval outcomes. Once the features are selected, a classification model is trained to discern patterns that lead to loan approvals or denials.
 • Prediction: The trained model is then employed to predict loan approvals. Applicants' details are fed into the model, which then calculates the probability of approval. The Tableau dashboard presents these predictions in an accessible format, allowing loan officers to make informed decisions quickly.
 • Outcome: The culmination of this project is a Tableau dashboard that not only predicts loan approvals with high accuracy but also provides insights into the factors influencing these decisions. It serves as a decision support tool that enhances the efficiency and objectivity of the loan approval process.
 This project exemplifies the power of data analytics in financial decision-making, offering a transparent, data-driven approach to loan approvals that benefits both lenders and borrowers alike.
