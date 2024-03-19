@@ -21,8 +21,8 @@
 
 Description:
 				The Tableau project on COVID-19 aimed to provide a comprehensive analysis of the pandemic's data to uncover trends and insights that could guide public health decisions. The primary goal was to analyze various metrics such as infection, mortality, and vaccination rates to gauge the pandemic's impact across different regions and populations.
-The project involved extensive exploratory data analysis (EDA) and predictive modeling to estimate future trends in infection and hospitalization rates using historical data. The dataset comprised publicly available information from the World Health Organization (WHO), including daily updates on new cases, deaths, recoveries, testing rates, as well as demographic and geographical data.
-Key skills employed in this project included data cleaning, preprocessing, and manipulation, along with statistical analysis and data visualization. Python and its associated libraries—Pandas, NumPy, Matplotlib, and Seaborn—were instrumental in the analysis of COVID-19 data, enabling the creation of insightful visualizations and models.
+The project involved extensive exploratory data analysis (EDA) and predictive modelling to estimate future trends in infection and hospitalization rates using historical data. The dataset comprised publicly available information from the World Health Organization (WHO), including daily updates on new cases, deaths, recoveries, testing rates, as well as demographic and geographical data.
+Key skills employed in this project included data cleaning, preprocessing, manipulation, statistical analysis, and data visualization. Python and its associated libraries—Pandas, NumPy, Matplotlib, and Seaborn—were instrumental in the analysis of COVID-19 data, enabling the creation of insightful visualizations and models.
 This project's findings were vital in understanding the dynamics of the pandemic and could significantly contribute to shaping effective health policies and interventions. By identifying patterns and predicting future occurrences, the project aimed to assist policymakers in making informed decisions to combat the ongoing health crisis.
 
 
@@ -30,7 +30,7 @@ This project's findings were vital in understanding the dynamics of the pandemic
 
 ## 2) IPL Data Analysis
 
-	    •		Aim: 	Conducted comprehensive data analysis on IPL (Indian Premier League) data to extract actionable insights and trends.
+        •	Aim: 	Conducted comprehensive data analysis on IPL (Indian Premier League) data to extract actionable insights and trends.
 	•	Problem:	 Analyzed performance metrics, player statistics, team dynamics, and match outcomes to identify factors contributing to success in the IPL.
 	•	Activity:
 	⁃	Performed exploratory data analysis (EDA), sentiment analysis,predictive models 
@@ -56,12 +56,12 @@ In conclusion, the "IPL Data Analysis" project was a testament to the power of d
 
 ## 3) Agriculture product prediction
 
-	Aim: To develop a predictive model for agriculture product production that accurately forecasts rice, wheat, or vegetable yields in various countries over the next few years.
+	⁃       Aim: To develop a predictive model for agriculture product production that accurately forecasts rice, wheat, or vegetable yields in various countries over the next few years.
 
 	⁃	Problem: create a model to predict agriculture production in countries in the next few years for rice, wheat or vegetables
 	⁃	Activity: Perform regression analysis(linear regression, logistic regression) to predict trends
 	⁃	DataSet: Kaggle;s world_foods Dataset
-	⁃	Skills: Data Cleaning,Python, Data/Statistical analysis, Visulisatizationn, Trends, Modeling, Communication
+	⁃	Skills: Data Cleaning, Python, Data/Statistical analysis, Visulisatizationn, Trends, Modeling, Communication
 
 Description: 
 
