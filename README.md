@@ -90,23 +90,23 @@ The project's success hinges on the seamless integration of these skills to crea
 	⁃	use the trained model to predict loan approval
 	
 	Description: 
-				The project "Loan Approval Prediction" is a sophisticated Tableau dashboard designed to streamline the decision-making process in the banking sector. The aim is to leverage predictive analytics to determine the likelihood of loan approval for applicants. This is achieved through a series of methodical steps, each contributing to the model's accuracy and reliability.
+				The project Loan Approval Prediction is a sophisticated Tableau dashboard designed to streamline the decision-making process in the banking sector. The aim is to leverage predictive analytics to determine the likelihood of loan approval for applicants. This is achieved through a series of methodical steps, each contributing to the model's accuracy and reliability.
 Data Gathering: The first phase involves collecting comprehensive loan application data from potential borrowers. This dataset includes personal, financial, and employment information, which forms the backbone of the predictive analysis.
 Data Exploration and Analysis: With the data in hand, the next step is to conduct an exploratory analysis. This involves scrutinizing the data for patterns, correlations, and trends that could influence loan approval decisions. Tableau's interactive visualizations aid in identifying key factors that are indicative of successful loan repayments.
-Data Preprocessing and Transformation: Raw data often contains inconsistencies, missing values, and outliers that can skew predictions. Therefore, preprocessing is crucial. This stage cleanses the data, handles missing values, encodes categorical variables, and normalizes numerical values to prepare a robust dataset for modeling.
+• Data Preprocessing and Transformation: Raw data often contains inconsistencies, missing values, and outliers that can skew predictions. Therefore, preprocessing is crucial. This stage cleanses the data, handles missing values, encodes categorical variables, and normalizes numerical values to prepare a robust dataset for modeling.
 Feature Selection and Model Training: Not all data points are equally informative. Selecting the most relevant features is vital for an effective model. Using Tableau, analysts can visualize the impact of various features on loan approval outcomes. Once the features are selected, a classification model is trained to discern patterns that lead to loan approvals or denials.
-Prediction: The trained model is then employed to predict loan approvals. Applicants' details are fed into the model, which then calculates the probability of approval. The Tableau dashboard presents these predictions in an accessible format, allowing loan officers to make informed decisions quickly.
-Outcome: The culmination of this project is a Tableau dashboard that not only predicts loan approvals with high accuracy but also provides insights into the factors influencing these decisions. It serves as a decision support tool that enhances the efficiency and objectivity of the loan approval process.
+• Prediction: The trained model is then employed to predict loan approvals. Applicants' details are fed into the model, which then calculates the probability of approval. The Tableau dashboard presents these predictions in an accessible format, allowing loan officers to make informed decisions quickly.
+• Outcome: The culmination of this project is a Tableau dashboard that not only predicts loan approvals with high accuracy but also provides insights into the factors influencing these decisions. It serves as a decision support tool that enhances the efficiency and objectivity of the loan approval process.
 This project exemplifies the power of data analytics in financial decision-making, offering a transparent, data-driven approach to loan approvals that benefits both lenders and borrowers alike.
 
 
 ## 5) Energy Consumption analysis
 
-		•	Aim: Analyzed total energy consumption and costs, identifying top providers and peak usage patterns.
-	⁃	Problem: Addressed the challenge of optimizing energy usage and reducing expenses in urban settings.
-	⁃	Activity: Conducted a comprehensive study of energy data, spanning multiple years and cities.
-	⁃	Dataset: Utilized records detailing monthly energy use, costs, provider rankings, and consumption categories.
-	⁃	Skills: Applied statistical analysis and data visualization to interpret complex energy consumption patterns.
+	•	Aim: Analyzed total energy consumption and costs, identifying top providers and peak usage patterns.
+	•	Problem: Addressed the challenge of optimizing energy usage and reducing expenses in urban settings.
+	•	Activity: Conducted a comprehensive study of energy data, spanning multiple years and cities.
+	•	Dataset: Utilized records detailing monthly energy use, costs, provider rankings, and consumption categories.
+	•	Skills: Applied statistical analysis and data visualization to interpret complex energy consumption patterns.
 
 
 	Description:
@@ -158,10 +158,10 @@ Project Overview:
 	•	Aim: The project is designed to dissect car market trends methodically and forecast car prices. By doing so, it seeks to offer a granular view of the factors influencing car valuations.
 	•	Problem Statement: The core challenge tackled by this project is the precise prediction of used car prices. This involves considering a multitude of variables that can affect a car's market value.
 	•	Activities Undertaken:
-	◦	Data Collection: A robust dataset was curated, encompassing a wide array of used car details. This dataset serves as the foundation for all subsequent analysis.
-	◦	Data Processing: The collected data underwent meticulous cleaning and preprocessing to ensure accuracy and reliability for the analysis phase.
-	◦	Exploratory Data Analysis (EDA): Through EDA, the project identified patterns, anomalies, correlations, and trends within the data, providing a deeper understanding of the used car market.
-	◦	Predictive Modeling: Leveraging machine learning algorithms, the project developed models capable of predicting used car prices based on the insights derived from the EDA.
+	•	Data Collection: A robust dataset was curated, encompassing a wide array of used car details. This dataset serves as the foundation for all subsequent analysis.
+	•	Data Processing: The collected data underwent meticulous cleaning and preprocessing to ensure accuracy and reliability for the analysis phase.
+	•	Exploratory Data Analysis (EDA): Through EDA, the project identified patterns, anomalies, correlations, and trends within the data, providing a deeper understanding of the used car market.
+	•	Predictive Modeling: Leveraging machine learning algorithms, the project developed models capable of predicting used car prices based on the insights derived from the EDA.
 Dataset Details: The CarDekho dataset was instrumental in this project. It is a rich repository of information, including:
 	•	Fuel Type: Categorizing cars based on their fuel consumption (e.g., petrol, diesel, CNG).
 	•	Car Name: The make and model of the car.
