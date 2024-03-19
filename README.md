@@ -64,7 +64,7 @@ In conclusion, the "IPL Data Analysis" project was a testament to the power of d
 
 Description: 
 
-			The project "Agriculture Product Prediction" is a comprehensive Tableau venture aimed at developing a predictive model to forecast agricultural product yields, specifically rice, wheat, and vegetables, across various countries in the upcoming years. The model's objective is to provide accurate predictions that can assist policymakers, farmers, and stakeholders in making informed decisions to optimize production and ensure food security.
+			The project Agriculture Product Prediction is a comprehensive Tableau venture aimed at developing a predictive model to forecast agricultural product yields, specifically rice, wheat, and vegetables, across various countries in the upcoming years. The model's objective is to provide accurate predictions that can assist policymakers, farmers, and stakeholders in making informed decisions to optimize production and ensure food security.
 Project Description:
 Aim: The primary goal is to construct a predictive model that leverages historical data to forecast future yields of key agricultural products. By predicting the production of rice, wheat, and vegetables, the model will serve as a crucial tool for planning and resource allocation in the agricultural sector.
 Problem Statement: The challenge lies in creating a robust model capable of predicting agricultural production with high accuracy. This model must account for the complex interplay of factors that influence crop yields, such as climate variability, soil quality, farming practices, and socio-economic conditions.
