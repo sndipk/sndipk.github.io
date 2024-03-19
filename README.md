@@ -56,15 +56,13 @@ In conclusion, the "IPL Data Analysis" project was a testament to the power of d
 ## 3) Agriculture product prediction
 
 	⁃       Aim: To develop a predictive model for agriculture product production that accurately forecasts rice, wheat, or vegetable yields in various countries over the next few years.
-
 	⁃	Problem: create a model to predict agriculture production in countries in the next few years for rice, wheat or vegetables
 	⁃	Activity: Perform regression analysis(linear regression, logistic regression) to predict trends
 	⁃	DataSet: Kaggle;s world_foods Dataset
 	⁃	Skills: Data Cleaning, Python, Data/Statistical analysis, Visulisatizationn, Trends, Modeling, Communication
 
 Description: 
-
-			The project Agriculture Product Prediction is a comprehensive Tableau venture aimed at developing a predictive model to forecast agricultural product yields, specifically rice, wheat, and vegetables, across various countries in the upcoming years. The model's objective is to provide accurate predictions that can assist policymakers, farmers, and stakeholders in making informed decisions to optimize production and ensure food security.
+		The project Agriculture Product Prediction is a comprehensive Tableau venture aimed at developing a predictive model to forecast agricultural product yields, specifically rice, wheat, and vegetables, across various countries in the upcoming years. The model's objective is to provide accurate predictions that can assist policymakers, farmers, and stakeholders in making informed decisions to optimize production and ensure food security.
 Project Description:
 Aim: The primary goal is to construct a predictive model that leverages historical data to forecast future yields of key agricultural products. By predicting the production of rice, wheat, and vegetables, the model will serve as a crucial tool for planning and resource allocation in the agricultural sector.
 Problem Statement: The challenge lies in creating a robust model capable of predicting agricultural production with high accuracy. This model must account for the complex interplay of factors that influence crop yields, such as climate variability, soil quality, farming practices, and socio-economic conditions.
@@ -112,7 +110,7 @@ This project exemplifies the power of data analytics in financial decision-makin
 
 
 	Description:
-				This Tableau project, titled "Energy Consumption Analysis," embarks on a critical mission to dissect and understand the intricate web of energy consumption and its associated costs. The aim is to shed light on the dominant energy providers and unravel the patterns of peak energy usage.
+		     This Tableau project, titled Energy Consumption Analysis, embarks on a critical mission to dissect and understand the intricate web of energy consumption and its associated costs. The aim is to shed light on the dominant energy providers and unravel the patterns of peak energy usage.
 Aim: The project's primary objective is to meticulously analyze the total energy consumption and the financial burden it imposes. It seeks to pinpoint the leading energy providers and decode the trends of peak usage times and seasons.
 Problem: Urban landscapes face the pressing issue of optimizing energy utilization while curtailing the soaring expenses that accompany it. This project tackles this challenge head-on, proposing data-driven solutions to enhance energy efficiency in metropolitan environments.
 Activity: A thorough investigation was undertaken, encompassing a vast array of energy data collected over several years and across a multitude of cities. This extensive study aimed to capture a holistic view of the energy landscape.
