@@ -111,10 +111,7 @@ It is anticipated that the case study will provide insightful information about 
 ## 2) DATA BANK ANALYSIS
 [DATA BANK ANALYSIS](https://drive.google.com/file/d/15UlN01P96BOsPcVrB8DVWKgxE_ZWXtg4/view?usp=drive_link)
 
-- My interest in the nexus of digital innovation and banking in the rapidly changing financial industry inspired me to launch Data Bank, a ground-breaking venture that combines the ease of neo-banking with the rapidly expanding cryptocurrency space. Data Bank only does business online, which is in accordance with today's trend for digital solutions.
-- Customers are rewarded with cloud data storage space proportionate to their account balances, which is the unique value proposition at the heart of Data Bank. This creative strategy fits our clientele's digitally-centric lifestyle while also encouraging savings.
-- This innovative business strategy is not without difficulties, though. Since starting Data Bank, I've had to deal with a number of challenges, especially when it comes to coming up with plans for how to divide up data storage while maintaining and expanding the company's finances. This case study explores the complexities of metric computations, the path of business growth, and the use of intelligent data analysis. For Data Bank to effectively predict and plan for a sustainable and successful future, several components are essential.
-- Through this case study, I aim to share the insights gained from navigating the hurdles and seizing the opportunities presented by this unique convergence of banking and technology. It is a testament to the innovative spirit that drives Data Bank and the relentless pursuit of redefining the banking experience for the digital age.
+
 
 
 
