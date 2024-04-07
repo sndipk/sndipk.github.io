@@ -13,7 +13,7 @@ I'm a data analyst with a passion for transforming data into valuable insights. 
 <!-- Work Experience -->
 
 ## 🌼 Work Experience 🌼
-## Data Analyst | TNT | JAN 2023 - OCT 2023
+## Data Analyst | TNT | JAN 2023 - FEB 2024
 
 <!-- Featured Projects -->
 
