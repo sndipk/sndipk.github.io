@@ -86,4 +86,4 @@ I'm a data analyst with a passion for transforming data into valuable insights. 
 [DATA MART ANALYSIS](https://drive.google.com/file/d/1wdwTCq_yJthFKHE18hiH98rcIQVvgimv/view?usp=drive_link)
 
 ## 2) DATA BANK ANALYSIS
-[DATA BANK ANALYSIS] (https://drive.google.com/file/d/15UlN01P96BOsPcVrB8DVWKgxE_ZWXtg4/view?usp=drive_link)
+[DATA BANK ANALYSIS](https://drive.google.com/file/d/15UlN01P96BOsPcVrB8DVWKgxE_ZWXtg4/view?usp=drive_link)
