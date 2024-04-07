@@ -79,3 +79,7 @@ I'm a data analyst with a passion for transforming data into valuable insights. 
 - Data-Driven Insights: Utilized the CarDekho dataset to address the challenge of predicting used car prices based on features like fuel type, car name, owner history, and more.
 
 - Technical Proficiency: Employed data cleaning, preprocessing, exploratory data analysis, and machine learning to build models for accurate price prediction.
+
+  ## 🌼 SQL Case Studies 🌼
+
+## 1) [DATA MART ANALYSIS]
