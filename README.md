@@ -85,7 +85,7 @@ I'm a data analyst with a passion for transforming data into valuable insights. 
 ## 1) DATA MART ANALYSIS 
 [DATA MART ANALYSIS](https://drive.google.com/file/d/1wdwTCq_yJthFKHE18hiH98rcIQVvgimv/view?usp=drive_link)
 
-### The main goal of this case study was to assess how Data Dart's sales performance throughout its several business sectors was affected by the company's adoption of sustainable packaging.
+- The main goal of this case study was to assess how Data Dart's sales performance throughout its several business sectors was affected by the company's adoption of sustainable packaging.
 ### Methodology: 
 A thorough examination of sales data from both before and after the implementation was carried out in order to gauge the impact of the switch to sustainable packaging. Data that covered a sizable time frame before and after the June 2020 transition were gathered and carefully examined.
 ### Results: 
