@@ -85,5 +85,21 @@ I'm a data analyst with a passion for transforming data into valuable insights. 
 ## 1) DATA MART ANALYSIS 
 [DATA MART ANALYSIS](https://drive.google.com/file/d/1wdwTCq_yJthFKHE18hiH98rcIQVvgimv/view?usp=drive_link)
 
+# The main goal of this case study was to assess how Data Dart's sales performance throughout its several business sectors was affected by the company's adoption of sustainable packaging.
+# Methodology: 
+A thorough examination of sales data from both before and after the implementation was carried out in order to gauge the impact of the switch to sustainable packaging. Data that covered a sizable time frame before and after the June 2020 transition were gathered and carefully examined.
+# Results: 
+# Positive Sales Growth: 
+The investigation showed that the use of sustainable packaging resulted in a significant increase in sales. The sales revenue demonstrated a consistent upward trend, suggesting that buyers were receptive to the eco-friendly campaign.Improved Customer 
+# Perception: 
+- According to feedback and market research, customers now view Data Dart more favourably than they did before the switch, valuing the company's dedication to sustainability.
+- Increased client acquisition and loyalty were a direct result of this improved brand perception.
+Market Differentiation: Data Dart was positioned as a leader in sustainability within its sector through the adoption of sustainable packaging. Due to this distinction, the business was able to stand out in a crowded market and draw in partners and customers who care about the environment.
+# Decreased Environmental Impact: 
+- The company's environmental footprint was lessened as a result of the use of sustainable packaging, which also increased sales. This is consistent with Data Dart's larger goal of encouraging environmentally responsible activities across its whole business.
+
+
+
+
 ## 2) DATA BANK ANALYSIS
 [DATA BANK ANALYSIS](https://drive.google.com/file/d/15UlN01P96BOsPcVrB8DVWKgxE_ZWXtg4/view?usp=drive_link)
