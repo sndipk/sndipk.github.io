@@ -85,29 +85,6 @@ I'm a data analyst with a passion for transforming data into valuable insights. 
 ## 1) DATA MART ANALYSIS 
 [DATA MART ANALYSIS](https://drive.google.com/file/d/1wdwTCq_yJthFKHE18hiH98rcIQVvgimv/view?usp=drive_link)
 
-### Case Study: Data Dart's Sustainable Packaging Initiative
-
-### Context: 
-Data Dart is a progressive company that has experienced a major change in its supply chain. The corporation made significant adjustments in June 2020 by implementing sustainable packaging practices for all of its product lines. This environmentally responsible change takes into account the product's full route, from the farm to the end user.
-
-### Objective:
-The main objective of this case study is to evaluate and assess how the sustainable packaging strategy has affected Data Dart's sales results. The goal of the study is to analyse the impact on the venture's various business segments as well as total sales numbers.
-
-
-### Methodology: 
-To conduct a thorough analysis, the following steps will be undertaken:
-
-- Data Collection: Gather sales data before and after the implementation of sustainable packaging.
-- Performance Metrics: Define key performance indicators (KPIs) to measure sales impact, such as revenue growth, market share, and customer acquisition rates.
-- Comparative Analysis: Compare the sales data to identify trends, patterns, and deviations.
-- Segmentation: Break down the data by business areas to assess the differential impact on each segment.
-- Customer Feedback: Evaluate customer responses and feedback to gauge market reception.
-
-### Anticipated Results: 
-It is anticipated that the case study will provide insightful information about how sustainability initiatives affect consumer behaviour and corporate success. Additionally, it will offer Data Dart strategic ideas for streamlining its operations and marketing tactics in accordance with environmentally friendly standards.
-
-
-
 ## 2) DATA BANK ANALYSIS
 [DATA BANK ANALYSIS](https://drive.google.com/file/d/15UlN01P96BOsPcVrB8DVWKgxE_ZWXtg4/view?usp=drive_link)
 
