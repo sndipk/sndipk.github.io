@@ -89,7 +89,7 @@ I'm a data analyst with a passion for transforming data into valuable insights. 
 [PDF LINK](https://drive.google.com/file/d/1b_UVe17TA1EI2ttVtaB6jd2IS243SH_b/view?usp=drive_link)
 
 ## 3) Texture Tales Analysis
-[PDF LINK](https://drive.google.com/file/d/1b_UVe17TA1EI2ttVtaB6jd2IS243SH_b/view?usp=drive_link)
+[PDF LINK](https://drive.google.com/file/d/1kxxPiJxK-HBOwOl3qMv_dlU6H4Ou6WLZ/view?usp=drive_link)
 
 
 
